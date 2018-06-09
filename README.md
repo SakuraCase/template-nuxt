@@ -1,6 +1,6 @@
 # start
 -vはwslの場合、cから見たパスを指定      
-`docker run -v '$(pwd)':app -it node:9.11.1-alpine /bin/sh`
+`docker run -v '$(pwd)':/app -it node:9.11.1-alpine /bin/sh`
 
 `npm i -g @vue/cli`     
 `npm i -g @vue/cli-init`     
