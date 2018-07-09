@@ -14,11 +14,11 @@
 
 
 # modules
-`yarn add bulma`
-`yarn add @nuxtjs/bulma`
-`yarn add @nuxtjs/axios`
-`yarn add @nuxtjs/pwa`
-`yarn add ava jsdom --dev`
+`yarn add bulma`     
+`yarn add @nuxtjs/bulma`      
+`yarn add @nuxtjs/axios`      
+`yarn add @nuxtjs/pwa`      
+`yarn add ava jsdom --dev`     
 
 
 # [wsl dockerでhot reloading](https://github.com/nuxt/nuxt.js/issues/2481)
